@@ -283,6 +283,9 @@ background:url('http://www.cssawds.com/ribbons/brand-award-right.png') no-repeat
 #second .squareTitleRight{
 	margin-right: 0;
 }
+#second .squareTitleRight2{
+	margin-right: 0;
+}
 
 #second .squareText{
 	text-align: center;
@@ -481,6 +484,10 @@ p{
 	}
 	
 	.squareTitleRight{
+		margin-right: 0;
+		padding: .5em;
+	}
+	.squareTitleRight2{
 		margin-right: 0;
 		padding: .5em;
 	}
