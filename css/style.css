@@ -432,6 +432,13 @@ background:url('http://www.cssawds.com/ribbons/brand-award-right.png') no-repeat
   font-size: calc(0.85em + 1.4vmin);
 	margin-right: 20%;
 }
+.squareTitleRight{
+	text-align: center;
+	color: #483c3c;
+	font-family: 'Arvo', serif;
+  font-size: calc(0.85em + 1.4vmin);
+	margin-right: 20%;
+}
 
 .squareImage{
 	width: 30%;
